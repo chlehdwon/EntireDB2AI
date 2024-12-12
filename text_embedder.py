@@ -1,3 +1,5 @@
+# Reference: https://github.com/snap-stanford/relbench/blob/main/examples/text_embedder.py
+
 from typing import List, Optional
 
 import torch
